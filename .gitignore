@@ -1,1 +1,5 @@
 .idea/workspace.xml
+target/
+project/target/
+project/build.properties
+

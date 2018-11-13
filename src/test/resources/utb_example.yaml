@@ -1,0 +1,3 @@
+name: myenv
+uvcs:
+- name: myuvc

@@ -3,5 +3,17 @@
   <component name="ScalaSbtSettings">
     <option name="customVMEnabled" value="true" />
     <option name="customVMPath" value="/mnt/disk1/cad/java/jdk1.8.0_161" />
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="1.1.2" />
+      </SbtProjectSettings>
+    </option>
   </component>
 </project>
