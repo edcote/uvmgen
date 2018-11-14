@@ -38,6 +38,7 @@ class Generator(private val config: GeneratorConfig) {
     .valueOr(e => throw GeneratorError("Unable to parse UTB configuration", e))
 
   def run(): Unit = {
+    utb.emit
   }
 }
 
