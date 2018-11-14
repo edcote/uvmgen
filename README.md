@@ -1,4 +1,4 @@
-# uvcgen (UVM verification component generator)
+# uvmcgen (UVM verification component and testbench generator)
 
 ### Contributing
 
